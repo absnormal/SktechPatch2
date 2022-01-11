@@ -1,0 +1,13 @@
+================ Training Loss (Tue Jan 11 07:01:44 2022) ================
+(epoch: 0, iters: 1600, time: 0.017, data: 1.019) G_R: 0.312 G_B: 0.142 G_D: 0.787 D: 0.491 
+(epoch: 0, iters: 3200, time: 0.017, data: 0.006) G_R: 0.210 G_B: 0.077 G_D: 0.623 D: 0.495 
+(epoch: 0, iters: 4800, time: 0.017, data: 0.006) G_R: 0.219 G_B: 0.080 G_D: 0.469 D: 0.379 
+(epoch: 0, iters: 6400, time: 0.017, data: 0.005) G_R: 0.206 G_B: 0.073 G_D: 0.378 D: 0.366 
+(epoch: 0, iters: 8000, time: 0.017, data: 0.006) G_R: 0.176 G_B: 0.060 G_D: 0.390 D: 0.322 
+(epoch: 0, iters: 9600, time: 0.017, data: 0.007) G_R: 0.194 G_B: 0.068 G_D: 0.471 D: 0.432 
+(epoch: 0, iters: 11200, time: 0.017, data: 0.008) G_R: 0.191 G_B: 0.064 G_D: 0.318 D: 0.384 
+(epoch: 0, iters: 12800, time: 0.017, data: 0.005) G_R: 0.171 G_B: 0.063 G_D: 0.296 D: 0.378 
+(epoch: 0, iters: 14400, time: 0.017, data: 0.010) G_R: 0.170 G_B: 0.055 G_D: 0.296 D: 0.306 
+(epoch: 0, iters: 16000, time: 0.017, data: 0.007) G_R: 0.197 G_B: 0.063 G_D: 0.332 D: 0.377 
+(epoch: 0, iters: 17600, time: 0.017, data: 0.007) G_R: 0.213 G_B: 0.078 G_D: 0.425 D: 0.358 
+(epoch: 0, iters: 19200, time: 0.017, data: 0.011) G_R: 0.181 G_B: 0.066 G_D: 0.299 D: 0.296 
