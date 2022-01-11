@@ -1,0 +1,5 @@
+================ Training Loss (Tue Jan 11 10:45:18 2022) ================
+(epoch: 0, iters: 1600, time: 0.017, data: 1.212) G_R: 0.423 G_B: 0.293 G_D: 1.000 D: 0.486 
+(epoch: 0, iters: 3200, time: 0.017, data: 0.005) G_R: 0.214 G_B: 0.091 G_D: 0.538 D: 0.487 
+(epoch: 0, iters: 4800, time: 0.017, data: 0.005) G_R: 0.218 G_B: 0.081 G_D: 0.507 D: 0.426 
+(epoch: 0, iters: 6400, time: 0.017, data: 0.005) G_R: 0.208 G_B: 0.076 G_D: 0.361 D: 0.383 
