@@ -1,13 +1,1 @@
-================ Training Loss (Tue Jan 11 07:05:43 2022) ================
-(epoch: 0, iters: 1600, time: 0.017, data: 0.963) G_R: 0.191 G_B: 0.111 G_D: 1.650 D: 0.827 
-(epoch: 0, iters: 3200, time: 0.017, data: 0.007) G_R: 0.096 G_B: 0.060 G_D: 0.385 D: 0.374 
-(epoch: 0, iters: 4800, time: 0.017, data: 0.010) G_R: 0.087 G_B: 0.052 G_D: 0.324 D: 0.418 
-(epoch: 0, iters: 6400, time: 0.017, data: 0.008) G_R: 0.078 G_B: 0.048 G_D: 0.474 D: 0.387 
-(epoch: 0, iters: 8000, time: 0.017, data: 0.005) G_R: 0.075 G_B: 0.045 G_D: 0.400 D: 0.310 
-(epoch: 0, iters: 9600, time: 0.017, data: 0.010) G_R: 0.071 G_B: 0.041 G_D: 0.406 D: 0.314 
-(epoch: 0, iters: 11200, time: 0.017, data: 0.005) G_R: 0.072 G_B: 0.046 G_D: 0.320 D: 0.424 
-(epoch: 0, iters: 12800, time: 0.017, data: 0.008) G_R: 0.063 G_B: 0.036 G_D: 0.255 D: 0.283 
-(epoch: 0, iters: 14400, time: 0.017, data: 0.006) G_R: 0.058 G_B: 0.033 G_D: 0.271 D: 0.286 
-(epoch: 0, iters: 16000, time: 0.017, data: 0.006) G_R: 0.063 G_B: 0.035 G_D: 0.270 D: 0.284 
-(epoch: 0, iters: 17600, time: 0.017, data: 0.006) G_R: 0.060 G_B: 0.037 G_D: 0.305 D: 0.285 
-(epoch: 0, iters: 19200, time: 0.017, data: 0.006) G_R: 0.057 G_B: 0.033 G_D: 0.512 D: 0.324 
+================ Training Loss (Tue Jan 11 12:46:18 2022) ================
